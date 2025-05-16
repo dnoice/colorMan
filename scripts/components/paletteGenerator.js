@@ -1,0 +1,1 @@
+// scripts/componenets/paletteGenerator.js
